@@ -1,4 +1,4 @@
-# C-project
+# C++-project
 Programming Course Project
 The program is designed like a system, which can speed up our learning efficiency during the study time.
 I would like to use a certification system to confirm whether the user is Thei student or not. Firstly want to use the student number to confirm, however we don’t know what is the operational password of the number, so we use Hong Kong ID number to verify the user.
